@@ -34,12 +34,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Densidade_do_Efeito: 10
+    - _Densidade_do_Efeito: 8.1
     - _For_a_Do_Efeito: 5
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Transpar_ncia: 1
-    - _Velocidade_Do_Efeito: 1
+    - _Velocidade_Do_Efeito: 1.28
     - _Velocidade_de_Onda: 0.3
     m_Colors:
     - _Cor_Base: {r: 0.2171591, g: 0.47504157, b: 0.754717, a: 0}
